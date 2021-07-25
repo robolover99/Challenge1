@@ -1,0 +1,104 @@
+.challenge
+{
+  display: flex;
+}
+
+body
+{
+  font-size: 15px;
+  color: white;
+}
+
+h1
+{
+  font-family: 'Big Shoulders Display', cursive;
+  weights: 700;
+  color: hsl(0, 0%, 95%);
+}
+
+p
+{
+  font-family: 'Lexend Deca', sans-serif;
+  weights: 400;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.sedan
+{
+  width: 300px;
+  padding: 49px 42px;
+  background-color: hsl(31, 77%, 52%);
+}
+
+.suv
+{
+  width: 300px;
+  padding: 49px 42px;
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury
+{
+  width: 300px;
+  padding: 49px 42px;
+  background-color: hsl(179, 100%, 13%);
+}
+
+.button
+{
+  color: hsl(0, 0%, 95%);
+}
+
+
+.btn1 {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #e38826;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: 2px solid;
+}
+
+.btn1:hover {
+  background: #e38826;
+  color: white;
+  text-decoration: none;
+}
+
+.btn2 {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #006970;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: 2px solid;
+}
+
+.btn2:hover {
+  background: #006970;
+  color: white;
+  text-decoration: none;
+}
+
+.btn3 {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #004241;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: 2px solid;
+}
+
+.btn3:hover {
+  background: #004241;
+  color: white;
+  text-decoration: none;
+}
